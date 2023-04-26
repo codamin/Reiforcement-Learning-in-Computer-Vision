@@ -1,0 +1,3 @@
+This notebook is for assignment 2 of the CS-503 Visual Intelligence course at EPFL by Prof. Amir Zamir.
+
+The main goal of this notebook is to demonstrate how to use Habitat-Sim simulator and Habitat-Lab library for trianing agents. You will evaluate a pre-trained agent that uses visual observations for navigation and implement a Policy Gradient (REINFORCE) algorithm to train a simple blind agent that uses only GPS+Compass sensors for navigation. This notebook should run on CPU well.
